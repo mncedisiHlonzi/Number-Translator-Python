@@ -45,7 +45,7 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
    git clone <https://github.com/mncedisiHlonzi/Number-Translator-Python.git/>
    ```
 
-3. Navigate to the project directory:
+3. Navigate to the project directory: <https://github.com/mncedisiHlonzi/Number-Translator-Python.git/>
 
     ```bash
     cd Number-Translator
