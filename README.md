@@ -48,7 +48,7 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 3. Navigate to the project directory:
 
     ```bash
-    cd Number-Translator
+    cd Number-Translator-Python
     ```
 
 ### Run the Program:
