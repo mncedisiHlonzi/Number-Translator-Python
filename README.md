@@ -42,10 +42,10 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone <https://github.com/mncedisiHlonzi/Number-Translator-Python.git/>
+   git clone https://github.com/mncedisiHlonzi/Number-Translator-Python.git
    ```
 
-3. Navigate to the project directory: <https://github.com/mncedisiHlonzi/Number-Translator-Python.git/>
+3. Navigate to the project directory:
 
     ```bash
     cd Number-Translator
@@ -88,3 +88,28 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 ### 4. Exit:
 
 - Choose Option 3 to exit the program.
+
+## Examples
+
+    Choose an option:
+    1. Convert string number to integer
+    2. Convert integer to string number
+    3. Exit
+    Enter your choice (1, 2, or 3): 1
+    Enter a number in words: thirty seven million four hundred and sixty one thousand nine hundred and twenty five
+    The numeric value is: 37461925
+
+    Choose an option:
+    1. Convert string number to integer
+    2. Convert integer to string number
+    3. Exit
+    Enter your choice (1, 2, or 3): 2
+    Enter a number: 5674832
+    The number in words is: five million six hundred seventy four thousand eight hundred thirty two
+
+    Choose an option:
+    1. Convert string number to integer
+    2. Convert integer to string number
+    3. Exit
+    Enter your choice (1, 2, or 3): 3
+    Exiting the program. Goodbye!
