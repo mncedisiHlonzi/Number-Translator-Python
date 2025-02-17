@@ -42,7 +42,7 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/mncedisiHlonzi/Number-Translator-Python.git
+   git clone <https://github.com/mncedisiHlonzi/Number-Translator-Python.git/>
    ```
 
 3. Navigate to the project directory:
