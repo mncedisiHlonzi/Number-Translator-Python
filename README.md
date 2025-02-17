@@ -64,3 +64,27 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
     ```bash
     python main.py
     ```
+
+## Usage
+
+## Choose an Option:
+
+### 1. The program will display a menu:
+
+    Choose an option:
+    1. Convert string number to integer
+    2. Convert integer to string number
+    3. Exit
+
+### 2. Follow the Prompts:
+
+- For Option 1: Enter a number in words (e.g., "one hundred twenty-three").
+- For Option 2: Enter a numeric value (e.g., 123).
+
+### 3. View the Result:
+
+- The program will display the converted value.
+
+### 4. Exit:
+
+- Choose Option 3 to exit the program.
