@@ -15,8 +15,8 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 
 ### • Bidirectional Conversion:
 
-• Convert numbers to words (e.g., 34500 → "thirty-four thousand five hundred").
-• Convert words to numbers (e.g., "one million two hundred" → 1000200).
+- Convert numbers to words (e.g., 34500 → "thirty-four thousand five hundred").
+- Convert words to numbers (e.g., "one million two hundred" → 1000200).
 
 ### • Large Number Support:
 
