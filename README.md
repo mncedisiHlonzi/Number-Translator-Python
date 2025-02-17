@@ -43,11 +43,13 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 
    ```bash
    git clone https://github.com/mncedisiHlonzi/Number-Translator-Python.git
+   ```
 
 3. Navigate to the project directory:
 
     ```bash
     cd Number-Translator
+    ```
 
 ### Run the Program:
 
@@ -55,8 +57,10 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 
     ```bash
     python --version
+    ```
 
 2. Run the program using the following command:
 
     ```bash
     python main.py
+    ```
