@@ -40,5 +40,23 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
+
    ```bash
    git clone https://github.com/mncedisiHlonzi/Number-Translator-Python.git
+
+3. Navigate to the project directory:
+
+    ```bash
+    cd Number-Translator
+
+### Run the Program:
+
+1. Ensure you have Python 3.8 or higher installed. You can check your Python version by running:
+
+    ```bash
+    python --version
+
+2. Run the program using the following command:
+
+    ```bash
+    python main.py
