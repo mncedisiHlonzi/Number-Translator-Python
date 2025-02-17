@@ -15,21 +15,21 @@ This tool is designed to handle large numbers (up to billions) and is case-insen
 
 ## • Bidirectional Conversion:
 
-    - Convert numbers to words (e.g., 34500 → "thirty-four thousand five hundred").
-    - Convert words to numbers (e.g., "one million two hundred" → 1000200).
+• Convert numbers to words (e.g., 34500 → "thirty-four thousand five hundred").
+• Convert words to numbers (e.g., "one million two hundred" → 1000200).
 
 ## • Large Number Support:
 
-    - Handles numbers up to billions (e.g., 1,000,000,000).
+• Handles numbers up to billions (e.g., 1,000,000,000).
 
 ## • Error Handling:
 
-    - Detects invalid inputs (e.g., misspelled words or non-numeric strings).
+• Detects invalid inputs (e.g., misspelled words or non-numeric strings).
 
 ## • User-Friendly Interface:
 
-    - Interactive menu for easy navigation.
+• Interactive menu for easy navigation.
 
 ## • Case-Insensitive:
 
-    - Accepts input in any case (e.g., "ONE HUNDRED" or "one hundred").
+• Accepts input in any case (e.g., "ONE HUNDRED" or "one hundred").
